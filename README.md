@@ -1,13 +1,13 @@
 # Hey, I'm Daurkhan 👋
 
-**Director of R&D** at a major fintech in country • Building things with **Rust**, **Python**, and **Flutter**
+**Director of R&D** at **Kaspi.kz** • Building things with **Rust**, **Python**, and **Flutter**
 
-18+ years turning coffee into code. Currently leading 35+ engineers across SRE, Device Maintenance, R&D, and Core Platform teams.
+18+ years of shipping software. Currently leading 35+ engineers across SRE, Device Maintenance, R&D, and Core Platform teams — and still writing code every day.
 
 ## 🔧 What I'm working on
 
 - CLI tools and terminal utilities in Rust
-- AI agents and local LLM integrations
+- AI agents & agentic coding on local LLMs (LM Studio, MLX, Qwen)
 - Open-source alternatives to proprietary dev tools
 - Flutter apps for iOS/Android
 
@@ -15,7 +15,7 @@
 ```
 Languages:   Rust • Python • Dart/Flutter • TypeScript • Java
 Infra:       Docker • Linux • PostgreSQL • Redis
-AI/ML:       Ollama • Whisper • Fooocus • Local LLMs
+AI/ML:       LM Studio • MLX • Claude Code • Whisper • Local LLMs
 ```
 
 ## 📌 Featured Projects
