@@ -2,7 +2,7 @@
 
 **Director of R&D** at **Kaspi.kz** & **Hepsiburada** • Building things with **Rust**, **Python**, and **Flutter**
 
-18+ years of shipping software. Currently leading 34 engineers across Kazakhstan and Turkey — SRE, Device Maintenance, R&D, and Core Platform teams — and still writing code every day.
+18+ years of shipping software. Currently leading 34 engineers across Kazakhstan and Turkey — SRE Operations, Device Maintenance, R&D, and UCC Core teams — and still writing code every day.
 
 ## 🔧 What I'm working on
 
